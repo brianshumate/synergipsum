@@ -1,0 +1,43 @@
+{
+    "name": "synergipsum",
+    "version": "0.0.4",
+    "description": "Generate Lorem Ipsum placeholder text with high tech biz speak, just like Bill Lumberg would say!",
+    "keywords": [
+      "Lorem Ipsum",
+      "synergy speak",
+      "silicon valley",
+      "Bill Lumberg"
+    ],
+    "maintainers": [{
+      "name": "Brian Shumate",
+      "email": "brian@brianshumate.com",
+      "url": "http://brianshumate.com"
+    }],
+    "contributors": [{}],
+    "bugs": {
+        "email": "brian@brianshumate.com",
+        "url": "http://github.com/brianshumate/synergipsum/issues"
+    },
+    "licenses": [
+        {
+            "type": "BSD",
+            "url": "http://github.com/brianshumate/synergipsum/blob/master/LICENSE.txt"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "http://github.com/brianshumate/synergipsum.git"
+        }
+    ],
+    "implements": [],
+    "dependencies": {
+       "console.log" : "*"
+    },
+    "devDependencies" : {
+      "console.log" : "*"
+    },
+    "engines" : { "node" : ">=0.6.4" },
+    "directories": {},
+    "main": "./lib/synergipsum"
+}
