@@ -1,7 +1,7 @@
 {
     "name": "synergipsum",
-    "version": "0.0.4",
-    "description": "Generate Lorem Ipsum placeholder text with high tech biz speak, just like Bill Lumberg would say!",
+    "version": "0.0.5",
+    "description": "Generate Lorem Ipsum placeholder in agonizing high tech biz speak style, just like Bill Lumberg would type!",
     "keywords": [
       "Lorem Ipsum",
       "synergy speak",
@@ -21,7 +21,7 @@
     "licenses": [
         {
             "type": "BSD",
-            "url": "http://github.com/brianshumate/synergipsum/blob/master/LICENSE.txt"
+            "url": "https://github.com/brianshumate/synergipsum/blob/master/LICENSE.txt"
         }
     ],
     "repositories": [
