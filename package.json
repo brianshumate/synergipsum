@@ -1,7 +1,7 @@
 {
     "name": "synergipsum",
-    "version": "0.0.5",
-    "description": "Generate Lorem Ipsum placeholder in agonizing high tech biz speak style, just like Bill Lumberg would type!",
+    "version": "0.0.7",
+    "description": "Generate Lorem Ipsum placeholder text in agonizing high tech biz speak style, just like Bill Lumberg would type!",
     "keywords": [
       "Lorem Ipsum",
       "synergy speak",
