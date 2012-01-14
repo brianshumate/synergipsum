@@ -1,6 +1,6 @@
 {
     "name": "synergipsum",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Generate Lorem Ipsum placeholder text in agonizing high tech biz speak style, just like Bill Lumberg would type!",
     "keywords": [
       "Lorem Ipsum",
@@ -21,7 +21,7 @@
     "licenses": [
         {
             "type": "BSD",
-            "url": "https://github.com/brianshumate/synergipsum/blob/master/LICENSE.txt"
+            "url": "https://github.com/brianshumate/synergipsum/blob/master/LICENSE"
         }
     ],
     "repositories": [
@@ -30,14 +30,6 @@
             "url": "http://github.com/brianshumate/synergipsum.git"
         }
     ],
-    "implements": [],
-    "dependencies": {
-       "console.log" : "*"
-    },
-    "devDependencies" : {
-      "console.log" : "*"
-    },
     "engines" : { "node" : ">=0.6.4" },
-    "directories": {},
     "main": "./lib/synergipsum"
 }
