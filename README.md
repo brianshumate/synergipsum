@@ -2,7 +2,9 @@
 
 This goofy module returns strings of awful synergy speak, like what you'd expect to hear in the average tech startup pitch. Best enjoyed when read to yourself in the voice of Bill Lumberg.
 
-The module exports a `SynergIpsum` class with a `create` function; instances of the class provide a `generate` function which takes an argument for the number of paragraphs of blather you'd like.
+The module exports a `SynergIpsum` constructor with `create` function; instances of `SynergIpsum` provide a `generate` function that takes an argument for the number of paragraphs of blather you'd like.
+
+Pretty simple, but probably not quite properly baked, so constructive criticism is certainly welcome.
 
 For example:
 
