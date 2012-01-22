@@ -32,7 +32,7 @@ This is also my first ever Node.js module, so feel free to offer suggestions, pu
 
 ## Thanks
 
-I could not have made this module without the inspiration of similar things with established vocabularies. The majority of syngergipsum vocabulary was borrowed from the most excellent [Web Economy Bullshit Generator](http://www.dack.com/web/bullshit.html).
+I could not have made this module without inspiration from similar things with established vocabularies. The majority of syngergipsum vocabulary was borrowed from the most excellent [Web Economy Bullshit Generator](http://www.dack.com/web/bullshit.html).
 
 Hopefully its output is as fun for you as it was for me to learn a little with. Speaking of which, I'd like to thank Pedro Teixeira (@pgte) for his fantastic [NodeTuts](http://nodetuts.com/) screencasts, and in particular for #17, which was the inspiration for this module. :)
 
