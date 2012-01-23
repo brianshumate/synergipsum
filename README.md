@@ -16,7 +16,6 @@ For example:
     { create: [Function], _class: [Function] }
     > s0 = S.create(2); // a synergipsum w/ 2 paragraphs
     > s0.generate();
-    Synergipsum: chunk barfed up with these characteristics: 2 paragraphs / 58 words
     'Continuously revolutionize extensive MongoDB clusters via social
     interfaces. Authoritatively unleash geofenced ninjas through client-based
     portals. Globally procrastinate optimal methodologies via cutting-edge
