@@ -1,7 +1,7 @@
 {
     "name": "synergipsum",
-    "version": "0.1.4",
-    "description": "Generate Lorem Ipsum placeholder text in agonizing high tech biz speak style, just like Bill Lumberg would type!",
+    "version": "0.2.0",
+    "description": "Janky Lorem Ipsum placeholder text in agonizing high tech biz speak style, just like Bill Lumberg would type!",
     "keywords": [
       "Lorem Ipsum",
       "synergy speak",
@@ -30,6 +30,6 @@
             "url": "http://github.com/brianshumate/synergipsum.git"
         }
     ],
-    "engines" : { "node" : ">=0.6.4" },
+    "engines" : { "node" : ">=0.6.0" },
     "main": "./lib/synergipsum"
 }
