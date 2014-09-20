@@ -17,9 +17,9 @@ npm install synergipsum
 
 node
 
-S = require('synergipsum');
-s0 = S.create(2); // a synergipsum w/ 2 paragraphs
-s0.generate();
+S = require('synergipsum')
+s0 = S.create(2) // a synergipsum w/ 2 paragraphs
+s0.generate()
 ```
 
 Maybe it will do more later, and the vocabulary will definitely continue
@@ -41,4 +41,3 @@ particular for #17, which was the inspiration for this module. :)
 I highly recommend checking out both NodeTuts and
 Pedro's ["Hands-on Node.js"](http://nodetuts.com/handson-nodejs-book.html)
 book as well.
-
