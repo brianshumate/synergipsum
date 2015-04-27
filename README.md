@@ -1,25 +1,28 @@
 # Synergipsum
 
 This goofy module returns strings of awful synergy speak, like what you'd
-expect to hear in the average tech startup pitch. Best enjoyed when read to
-yourself in the voice of Bill Lumberg.
+expect to hear in the average tech startup pitch or pointy haired boss.
+Best enjoyed when read to yourself in the voice of Bill Lumbergh.
 
-The module exports a `SynergIpsum` constructor with `create` function;
+The module exports a `SynergIpsum` constructor with a `create` function;
 instances of `SynergIpsum` provide a `generate` function that takes an
-argument for the number of paragraphs of blather you'd like.
+argument for the number of sentences of blather you'd like.
 
-Pretty simple, but probably not quite baked, so use at own risk, etc..
+Pretty simple, but probably not quite baked, so use at own risk,
+without warranty of fitness, you'll shoot your eye out, etc.
 
-Example invocation:
+## Example installation and invocation
 
 ```
-npm install synergipsum
+npm install -g synergipsum
+```
 
+```
 node
 
-S = require('synergipsum')
-s0 = S.create(2) // a synergipsum w/ 2 paragraphs
-s0.generate()
+var Synergy = require('synergipsum')
+var blather = Synergy.create(7) // synergy speak with 7 sentences
+blather.generate()
 ```
 
 Maybe it will do more later, and the vocabulary will definitely continue
