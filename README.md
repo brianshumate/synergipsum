@@ -41,6 +41,5 @@ little with. Speaking of which, I'd like to thank Pedro Teixeira (@pgte) for
 his fantastic [NodeTuts](http://nodetuts.com/) screencasts, and in
 particular for #17, which was the inspiration for this module. :)
 
-I highly recommend checking out both NodeTuts and
-Pedro's ["Hands-on Node.js"](http://nodetuts.com/handson-nodejs-book.html)
-book as well.
+I highly recommend checking out both NodeTuts and Pedro's
+["Hands-on Node.js"](https://leanpub.com/hands-on-nodejs) book as well.
