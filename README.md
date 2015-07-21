@@ -14,7 +14,7 @@ without warranty of fitness, you'll shoot your eye out, etc.
 ## Example installation and invocation
 
 ```
-npm install -g synergipsum
+npm install synergipsum
 ```
 
 ```
