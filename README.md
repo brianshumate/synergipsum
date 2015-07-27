@@ -1,5 +1,7 @@
 # Synergipsum
 
+[![npm version](https://badge.fury.io/js/synergipsum.svg)](http://badge.fury.io/js/synergipsum)
+
 This goofy module returns strings of awful synergy speak, like what you'd
 expect to hear in the average tech startup pitch or pointy haired boss.
 Best enjoyed when read to yourself in the voice of Bill Lumbergh.
