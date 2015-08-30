@@ -10,8 +10,9 @@ The module exports a `SynergIpsum` constructor with a `create` function;
 instances of `SynergIpsum` provide a `generate` function that takes an
 argument for the number of sentences of blather you'd like.
 
-Pretty simple, but probably not quite baked, so use at own risk,
-without warranty of fitness, you'll shoot your eye out, etc.
+Pretty simple, but probably also half-baked, so use at own risk, without
+warranty of fitness expressed or implied, void where prohibited, 
+you'll shoot your eye out, etc.
 
 ## Example installation and invocation
 
@@ -22,20 +23,20 @@ npm install synergipsum
 ```
 node
 
-var Synergy = require('synergipsum')
-var blather = Synergy.create(7) // synergy speak with 7 sentences
+var synergy = require('synergipsum')
+var blather = synergy.create(7) // synergy speak with 7 sentences
 blather.generate()
 ```
 
-Maybe it will do more later, and the vocabulary will definitely continue
-to be expanded over time. This is also my first ever Node.js module, so feel
-free to offer suggestions, pull requests, and all of the neighborly things.
+Maybe this will do more later, and the vocabulary might expand over time. 
+This is also my first ever Node.js module, so feel free to offer suggestions,
+pull requests, and all the neighborly things.
 
 ## Thanks
 
 I could not have made this module without inspiration from similar things
-with established vocabularies. The majority of syngergipsum vocabulary was
-borrowed from the most excellent
+with established vocabularies. I borrowed the majority of syngergipsum's
+vocabulary from the most excellent 
 [Web Economy Bullshit Generator](http://www.dack.com/web/bullshit.html).
 
 Hopefully its output is as fun for you as it was for me to learn a
