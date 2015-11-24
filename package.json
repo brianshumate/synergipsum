@@ -1,6 +1,6 @@
 {
     "name": "synergipsum",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Janky Lorem Ipsum placeholder text in agonizing high tech biz speak style, just like Bill Lumbergh would type!",
     "keywords": [
       "Lorem Ipsum",
@@ -20,7 +20,7 @@
     },
     "licenses": [
         {
-            "type": "BSD",
+            "type": "BSD-2-Clause",
             "url": "https://github.com/brianshumate/synergipsum/blob/master/LICENSE"
         }
     ],
